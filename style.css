@@ -1,0 +1,26 @@
+body{
+    width: 1120px;
+    padding: 80px;
+    background-position: cover;
+    margin:auto;
+    box-sizing: border-box;
+}
+
+#next-travel{
+    color: #E76F51;
+}
+
+img{
+    height: 545px;
+    object-fit: cover; /* Ajusta a proporção da imagem para caber no container disponível pra ela sem distorcer */
+    margin-top: 44px;
+}
+
+div section img{
+    height: 290px;
+    object-fit: cover; /* Ajusta a proporção da imagem para caber no container disponível pra ela sem distorcer */
+    margin-top: 44px;
+}
+
+
+    
